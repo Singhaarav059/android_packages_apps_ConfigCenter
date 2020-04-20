@@ -806,4 +806,8 @@
     <string name="smart_pulldown_dismissable">No dismissable notifications</string>
     <string name="smart_pulldown_ongoing">No ongoing notifications</string>
 
+    <!-- QS DataUsage Toggle -->
+    <string name="qs_datausage_title">Show data usage in qs header</string>
+    <string name="qs_datausage_subtitle">Shows data usage in quick settings header of sim used for data</string>
+
 </resources>
