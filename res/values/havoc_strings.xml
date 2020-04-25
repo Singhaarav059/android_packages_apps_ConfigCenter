@@ -19,6 +19,10 @@
     <!-- App Title -->
     <string name="config_center_title">Configuration Center</string>
 
+    <!-- OOS Dismiss All -->
+    <string name="enable_clear_all_button">Replace clear all text with nice button</string>
+    <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+
     <!-- Preferences -->
     <string name="about_title">About</string>
     <string name="about_summary">Learn more about Havoc-OS</string>
